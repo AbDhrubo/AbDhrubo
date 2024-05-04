@@ -5,12 +5,13 @@
 Hi there. I am **Abu Bakor Siddique**. Currently studying Computer Science at [IUT](https://www.iutoic-dhaka.edu/) trying to figure out what the hell this is about. I like Competitive programming, CTFs, Web development, UI-UX design and movies.
 
 <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/AbDhrubo?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AbDhrubo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/AbDhrubo?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AbDhrubo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+<br/> <br/>
 ### 🧰 Languages and Tools
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
