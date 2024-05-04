@@ -1,6 +1,6 @@
 ### AbDhrubo 👋
 
-`**Student/Developer/CTF enthusiast**`
+**`Student/Developer/CTF enthusiast`**
 
 Hi there. I am **Abu Bakor Siddique**. Currently studying Computer Science at [IUT](https://www.iutoic-dhaka.edu/) trying to figure out what the hell this is about. I like Competitive programming, CTFs, Web development, UI-UX design and movies.
 
