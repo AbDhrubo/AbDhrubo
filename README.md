@@ -27,12 +27,7 @@ Hi there. I am **Abu Bakor Siddique**. Currently studying Computer Science at [I
 
 #
 
-### 📊 Stats
-
-![AbDhrubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbDhrubo&show_icons=true&theme=gruvbox)
-
-#
-
+## 📊 Stats
 <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
