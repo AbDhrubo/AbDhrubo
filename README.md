@@ -20,8 +20,8 @@ Here are some ideas to get you started:
  
 Hi there, I am **Dhrubo**. 
 Currently studying Computer Science at [IUT](https://www.iutoic-dhaka.edu/). 
-I like Competitive programming, CTFs, ML and movies.
-I am always late to 8am classes
+I like Competitive programming, CTFs, ML and movies. 
+I am always late to 8am classes. 
 Viva Barca 
 Oh.. and I use Arch btw :3
 
