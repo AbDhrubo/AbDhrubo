@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 **`CSE Major / Competitve Programmer / CTF Player / ML enthusiast`**
  
-Hi there, I am **Dhrubo**. 
-Currently studying Computer Science at [IUT](https://www.iutoic-dhaka.edu/). 
-I like Competitive programming, CTFs, ML and movies. 
-I am always late to 8am classes. 
-Viva Barca 
-Oh.. and I use Arch btw :3
+- Hi there, I am **Dhrubo**
+- Currently studying Computer Science at [IUT](https://www.iutoic-dhaka.edu/)
+- I like Competitive programming, CTFs, ML and movies 
+- I am always late to 8am classes
+- Viva Barca 
+- Oh.. and I use Arch btw :3
 
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
