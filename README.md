@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 **`CSE Major / Competitve Programmer / CTF Player / ML enthusiast`**
  
-- Hi there, I am **Dhrubo**
+- Hi there👋, I am **Dhrubo**
 - Currently studying Computer Science at [IUT](https://www.iutoic-dhaka.edu/)
 - I like Competitive programming, CTFs, ML and movies 
 - I am always late to 8am classes
-- Viva Barca 
+- Viva Barca 🟦🟥
 - Oh.. and I use Arch btw :3
 
 
