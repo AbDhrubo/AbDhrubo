@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**`CSE Major / Competitve Programmer / CTF Player / ML enthusiast`**
+**`CSE Major / Competitve Programmer / CTFer / ML enthusiast`**
  
 - Hi there👋, I am **Dhrubo**
 - Currently studying Computer Science at [IUT](https://www.iutoic-dhaka.edu/)
